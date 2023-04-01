@@ -1,8 +1,20 @@
-# CS learning tips and resources
+# CS learning resources and tips
+
+The info below includes resources I wish I knew about earlier in my learning journey. Some of them will be better than others depending on your interests and technical background. I originally made this for friends or family interested in a comp sci field or starting a univeristy program. Hopefully it's useful. Note that this isn't meant to be a comprehensive learning plan. Experiment and decide what works for you.  No need to follow any tips exactly. 
 
 * Setup a Github account to use for your public projects portfolio - https://github.com/
     * Use Github Pages to create your own website (to add a personal touch) - https://pages.github.com/
         * Consider using a prebuilt template that’s already available
+* Create a second brain. Tryout a conceptual note-taking system instead of a sequential note taking approach. Note that this might not work if you have a sharp deadline where you need to memorize the applications.
+    * Watch this video on what a conceptual note taking approach is: https://www.youtube.com/watch?v=MYJsGksojms&ab_channel=ChrisPomeroy
+    * Try using Obsidian: https://obsidian.md/
+        * Consider getting the paid sync plan, after you tried it out.
+    * Consider reading or listening to these books on learning and note taking:
+        * Building a Second Brain: https://a.co/d/5OATEw9
+        * How to Take Smart Notes: https://a.co/d/5OATEw9
+        * Art of Learning: https://a.co/d/8y8bZQq
+* Use Alfred if you use a MacBook: https://www.alfredapp.com/
+    * Buy a Powerpack after you’ve used it. It will save you a lot of time if you use it right.
 * On self-help
     * After your first year (after you’ve learned a programming language through coursework) - 
         * The Programmer's Brain: What every programmer needs to know about cognition
@@ -10,7 +22,7 @@
     * During your internship -
         * Own Your Tech Career: Soft skills for technologist 
             * https://www.amazon.com/Own-Your-Tech-Career-technologists/dp/161729907
-    * During your first CS job - 
+    * During your first CS job -
         * On programming in teams - 
             * Mythical Man Month by Fred Brooks Jr - https://a.co/d/bbeSR1A
             * Pragmatic Programmer by Andy Hunt and Dave Thomas - https://a.co/d/alu5sjh
@@ -44,7 +56,7 @@
         * Use them to reinforce your understanding or learn something new
     * Use ChatGPT as a learning tool
         * https://chat.openai.com/
-        * Use it for confirm or clarify on concepts that you might be confused about. Trust but verify. Talk to me about this if you want to learn more.
+        * Use it for confirm or clarify on concepts that you might be confused about. It can fill your knowledge gaps like a personal tutor. Trust but verify. Talk to me about this if you want to learn more.
     * Write your own code and share it on your Github
         * Share your own unique school or for fun projects you’ve worked on
             * Always give credit to collaborators and be honest with your level of contribution
@@ -52,8 +64,13 @@
     * Python -
         * Learn Python 3 the Hard Way by Zed Shaw - https://a.co/d/awNyt9u
             * It’s actually not a hard book (author is exaggerating).  
+        * Python Programming: An Introduction to Computer Science - https://a.co/d/1bIIaaZ
+            * I used an older version of this book in an intro comp sci class and loved it. Get the latest edition, if you need an intro to Python book. The book has 
     * Javascript - 
         * Eloquent Javascript by Marijn Haverbeke - https://eloquentjavascript.net/
+            * This book has great problems and pretty good explanations.
+        * Javascript for DS by Gans, et al. - https://third-bit.com/js4ds
+            * Similar story here. Nice to confirm understanding.
     * General - 
         * Self Taught Programmer and Self Taught Computer Scientist by Cory Althoff - https://a.co/d/dGiXpCM and https://a.co/d/8f9dEBJ
     * Command line - 
@@ -67,3 +84,14 @@
         * General - 
             * The Odin Project - https://www.theodinproject.com/
             * FreeCodeCamp - https://www.freecodecamp.org/
+    * SQL - 
+        * https://sqlzoo.net/
+        * W3schools for exercises and quizzes: https://www.w3schools.com/
+    * Learn Markdown b/c it’s useful on Github and used in Obsidian: https://www.markdownguide.org/
+    * Regular Expressions for pattern matching - 
+        * https://regexone.com/
+        * https://github.com/ziishaned/learn-regex
+    * Develop your problem solving skills via practice (after you’ve been programming for a year or two in a language)
+        * Exercism - https://exercism.org/
+        * Advent of Code - https://adventofcode.com/
+        * Leet Code - https://leetcode.com/
