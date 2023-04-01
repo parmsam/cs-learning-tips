@@ -35,9 +35,9 @@ The info below includes resources I wish I knew about earlier in my learning jou
         * On habit formation - 
             * Atomic Habits by James Clear - https://a.co/d/4nOl8AW
         * On mapping skills acquisition
-                * See what skills the folks that are in roles and companies you want to work for have
-                    * Use LinkedIn for this and screen capture to document the skills or experience they have
-                * Read some job descriptions for roles you would like to be in after you graduate and document the skills/experiences they are looking for
+            * See what skills the folks that are in roles and companies you want to work for have
+            * Use LinkedIn for this and screen capture to document the skills or experience they have
+            * Read some job descriptions for roles you would like to be in after you graduate and document the skills/experiences they are looking for
 * On technical learning
     * Find new problems - 
         * Do programming challenges for fun, to see how you compare, or just motivate yourself (great excuse to learn something new or tinker) - 
