@@ -12,7 +12,7 @@ The info below includes resources I wish I knew about earlier in my learning jou
     * Consider reading or listening to these books on learning and note taking:
         * Building a Second Brain: https://a.co/d/5OATEw9
         * How to Take Smart Notes: https://a.co/d/5OATEw9
-        * Art of Learning: https://a.co/d/8y8bZQq
+        * Art of learning: https://a.co/d/8y8bZQq
 * Use Alfred if you use a MacBook: https://www.alfredapp.com/
     * Buy a Powerpack after you’ve used it. It will save you a lot of time if you use it right.
 * On self-help
@@ -36,7 +36,7 @@ The info below includes resources I wish I knew about earlier in my learning jou
             * Atomic Habits by James Clear - https://a.co/d/4nOl8AW
         * On mapping skills acquisition
             * See what skills the folks that are in roles and companies you want to work for have
-            * Use LinkedIn for this and screen capture to document the skills or experience they have
+                * Use LinkedIn for this and screen capture to document the skills or experience they have
             * Read some job descriptions for roles you would like to be in after you graduate and document the skills/experiences they are looking for
 * On technical learning
     * Find new problems - 
@@ -65,7 +65,7 @@ The info below includes resources I wish I knew about earlier in my learning jou
         * Learn Python 3 the Hard Way by Zed Shaw - https://a.co/d/awNyt9u
             * It’s actually not a hard book (author is exaggerating).  
         * Python Programming: An Introduction to Computer Science - https://a.co/d/1bIIaaZ
-            * I used an older version of this book in an intro comp sci class and loved it. Get the latest edition, if you need an intro to Python book. The book has 
+            * I used an older version of this book in an intro comp sci class and loved it. Get the latest edition, if you need an intro to Python book. 
     * Javascript - 
         * Eloquent Javascript by Marijn Haverbeke - https://eloquentjavascript.net/
             * This book has great problems and pretty good explanations.
@@ -85,7 +85,7 @@ The info below includes resources I wish I knew about earlier in my learning jou
             * The Odin Project - https://www.theodinproject.com/
             * FreeCodeCamp - https://www.freecodecamp.org/
     * SQL - 
-        * https://sqlzoo.net/
+        * SqlZoo for problems: https://sqlzoo.net/
         * W3schools for exercises and quizzes: https://www.w3schools.com/
     * Learn Markdown b/c it’s useful on Github and used in Obsidian: https://www.markdownguide.org/
     * Regular Expressions for pattern matching - 
