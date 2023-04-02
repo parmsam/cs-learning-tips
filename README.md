@@ -16,6 +16,7 @@ The info below includes resources I wish I knew about earlier in my learning jou
         * Building a Second Brain: https://a.co/d/5OATEw9
         * How to Take Smart Notes: https://a.co/d/5OATEw9
         * Art of learning: https://a.co/d/8y8bZQq
+       * Rationality from AI to Zombies: https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies
 * Use Alfred if you use a MacBook: https://www.alfredapp.com/
     * Buy a Powerpack after you’ve used it. It will save you a lot of time if you use it right.
 
