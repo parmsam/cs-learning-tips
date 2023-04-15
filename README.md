@@ -102,7 +102,9 @@ The info below includes resources I wish I knew about earlier in my learning jou
     * SQL - 
         * SqlZoo for problems: https://sqlzoo.net/
         * W3schools for exercises and quizzes: https://www.w3schools.com/
-    * Learn Markdown b/c it’s useful on Github and used in Obsidian: https://www.markdownguide.org/
+    * Learn Markdown b/c it’s useful on Github and used in Obsidian
+        * https://www.markdownguide.org/
+        * https://commonmark.org/
     * Regular Expressions for pattern matching - 
         * https://regexone.com/
         * https://github.com/ziishaned/learn-regex
